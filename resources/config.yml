@@ -1,1 +1,6 @@
+#use {player} to show the player name
+#use § to add some color(s)
 
+form-title: "JoinUI"
+form-content: "Welcome {player} to ServerNetwork!"
+close-button: "Close"
