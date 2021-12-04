@@ -10,7 +10,7 @@ use pocketmine\utils\Config;
 use pocketmine\utils\TextFormat;
 use pocketmine\event\player\PlayerJoinEvent;
 use libs\Vecnavium\FormsUI\SimpleForm;
-use libs\Vecnavium\FormsUI\FormAPI;
+use libs\Vecnavium\FormsUI\FormsUI;
 use function str_replace;
 
 class Main extends PluginBase implements Listener {
